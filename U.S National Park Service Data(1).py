@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 # In[17]:
 
 
-file_path = r"C:\Users\timot\Downloads\Combined_recreation_visit_data.csv"
+file_path = file_path = "Combined_recreation_visit_data.csv"
 data = pd.read_csv(file_path)
 
 
